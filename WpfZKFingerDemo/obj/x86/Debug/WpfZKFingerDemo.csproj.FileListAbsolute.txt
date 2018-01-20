@@ -1,0 +1,14 @@
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\bin\Debug\WpfZKFingerDemo.exe
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\bin\Debug\WpfZKFingerDemo.pdb
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\bin\Debug\AxInterop.ZKFPEngXControl.dll
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\MainWindow.baml
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\MainWindow.g.cs
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\App.g.cs
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\WpfZKFingerDemo_Content.g.cs
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\WpfZKFingerDemo_MarkupCompile.cache
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\WpfZKFingerDemo.g.resources
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\WpfZKFingerDemo.Properties.Resources.resources
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\WpfZKFingerDemo.csproj.GenerateResource.Cache
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\WpfZKFingerDemo.exe
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\obj\x86\Debug\WpfZKFingerDemo.pdb
+C:\demo\WpfZKFingerDemo\WpfZKFingerDemo\bin\Debug\Interop.ZKFPEngXControl.dll
